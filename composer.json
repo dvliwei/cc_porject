@@ -1,0 +1,25 @@
+{
+  "name": "dvliwei/cc_project",
+  "description":  "ccproject!",
+  "keywords": ["dvliwei"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "dvliwei",
+      "email": "liwei1987821@126.com",
+      "homepage": "https://github.com/dvliwe",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "@stable"
+  },
+  "autoload": {
+    "psr-4": {
+      "Yin32167\\CpsTpl\\": "src/"
+    }
+  }
+}
